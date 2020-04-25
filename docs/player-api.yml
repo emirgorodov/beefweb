@@ -6,6 +6,7 @@ info:
 
 host: localhost:8880
 basePath: /api
+schemes: [http, https]
 
 produces:
 - application/json
